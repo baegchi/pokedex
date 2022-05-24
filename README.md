@@ -1,6 +1,11 @@
+# This is an API based project
+
+I have used [pokeapi] in this project,using this i have created pokemon dex where we can see or read about different types of pokemons
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
